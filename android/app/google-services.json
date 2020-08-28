@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844255752233",
+    "firebase_url": "https://sign-up-phone-df205.firebaseio.com",
+    "project_id": "sign-up-phone-df205",
+    "storage_bucket": "sign-up-phone-df205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844255752233:android:b4090851dd31a6cc45ec38",
+        "android_client_info": {
+          "package_name": "com.example.phone_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844255752233-cf1sbe3ai82css0bpfth8jkhnne1jbol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_authentication",
+            "certificate_hash": "c402d8e561286a60e2082966b78825199e0c4509"
+          }
+        },
+        {
+          "client_id": "844255752233-bg68k1gutrkbkp90ja9p9fgt1hok6jf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClV3VmI4TQPF_HQ-7anjfFuYYOvmeJF-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844255752233-bg68k1gutrkbkp90ja9p9fgt1hok6jf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
